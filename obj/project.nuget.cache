@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkbeZHojfwOk9XuWLCthWinGZ8QPV6bNdRZql9jRY8jUmPLwqAqDMyzrRvpC9UtgpLBCgy93JGD9WD1uqLAY8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan\\source\\repos\\bypassWin11\\bypassWin11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
